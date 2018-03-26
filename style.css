@@ -1,0 +1,72 @@
+body {
+  background: #C4DFFF;
+  font-family: sans-serif,"Times New Roman",Georgia;
+  font-size: 100%;
+  color: #000;
+}
+header {
+  font-size: x-large;
+  font-family:sans-serif;
+  color: #851829;
+  border: 8px solid #EAEDEB;
+  background: white;
+  padding: 20px;
+  text-align: center;
+}
+heading {
+  font-family:"Josefin Sans";
+  font-size:1.5em;
+  text-align: center;
+  color: #851829;
+}
+section {
+  padding: 10px;
+  text-align: center;
+}
+p {
+  margin: 10px;
+  padding: 10px;
+  font-size:1.2em;
+  font-family: "Playfair Display";
+  border: 8px solid #EAEDEB;
+  background: white;
+  text-align:center;
+}
+figure {
+  border: 8px solid #EAEDEB;
+  background: white;
+  padding: 20px;,
+  font-style: italic;
+  background: white;
+}
+img {
+  margin-left: auto;
+  margin:right: auto;
+  width: 40%;
+
+}
+table {
+  border-top: 1px solid black;
+  background: #C4DFFF;
+  font-family: "Playfair Display";
+  font-size:1.05em;
+}
+th, td {
+  padding: 5px;
+  border-right: 1px solid black;
+  border-bottom: 1px solid black;
+  border-left: 1px solid black;
+  background: white;
+}
+#footer {
+  border: 1px solid #C4DFFF;
+  background: #C4DFFF;
+  font-style: italic;
+}
+#txt{
+  font-size: 1.3em;
+  font-family: "Montserrat";
+  border: 8px solid #EAEDEB;
+  background: white;
+  padding: 20px;,
+}
